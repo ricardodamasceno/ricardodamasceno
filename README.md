@@ -1,6 +1,6 @@
 ### Ricardo Damasceno
 
-- 🔭 Currently working at C6 Bank as a Tech Lead / Senior Software Engineer.
+- 🔭 Currently working at C6 Bank as a Tech Lead / Software Engineer Specialist.
 
  <div>
   <a href="https://github.com/ricardodamasceno">
